@@ -1,0 +1,3 @@
+package tcnproj;
+
+@license(LGPL);
